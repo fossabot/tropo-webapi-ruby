@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzlu%2Ftropo-webapi-ruby.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fzlu%2Ftropo-webapi-ruby?ref=badge_shield)
+
 = Tropo Web API Ruby Library
 
 A Ruby library for interaction with the Tropo Web API (http://tropo.com) using JSON.
@@ -202,3 +204,6 @@ http://docs.tropo.com/webapi/2.0/home.htm
 == Copyright
 
 Copyright (c) 2010 Voxeo, Corporation. See LICENSE for details.
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzlu%2Ftropo-webapi-ruby.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fzlu%2Ftropo-webapi-ruby?ref=badge_large)
